@@ -39,7 +39,7 @@ devtools::install_github(repo = "vertesy/MarkdownReports", ref = "main", upgrade
 devtools::install_github(repo = "vertesy/ggExpress", ref = "main", upgrade = F)
 
 # Recommended
-devtools::install_github(repo = "vertesy/DatabaseLinke.R, ref = "main"", upgrade = F)
+devtools::install_github(repo = "vertesy/DatabaseLinke.R", ref = "main", upgrade = F)
 
 # Install Seurat.utils
 devtools::install_github(repo = "vertesy/Seurat.utils", ref = "main", upgrade = F)
